@@ -1,4 +1,4 @@
-# Zillow-Optimal-Pricing-Model
+# Zillow Optimal Pricing Model
 
 Hello,
 
