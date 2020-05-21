@@ -2,7 +2,7 @@
 
 Hello,
 
-My name is Amulya Sharma and this repository contains the deliverables for a Decision Science Exercise that I did using Zillow's New Construction data
+My name is Amulya Sharma and this repository contains the deliverables for a Decision Science Exercise that I did for Zillow Group using Zillow's New Construction data
 
 To find out more about this project, check out the Jupyter Notebook and Powerpoint Presentation!
 
